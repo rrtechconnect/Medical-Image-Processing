@@ -35,13 +35,18 @@ Inferences & Evaluation metrics
 
 ![image](https://user-images.githubusercontent.com/117635899/213420181-a67f71f0-cd5c-4413-8170-01d4d1fc0fe1.png)
 
+![image](https://user-images.githubusercontent.com/117635899/213420579-369529a4-e7cf-414d-8473-ea8b5b73c3f7.png)
+Inference by U-net Model Trained on 1. DRIVE, 2. STARE, 3. CHASE Datasets respectively
+
 ![image](https://user-images.githubusercontent.com/117635899/213420213-bc072e2d-f811-4f5a-98b9-d2a2b139ddc1.png)
 
 
 ![image](https://user-images.githubusercontent.com/117635899/213420531-e450448e-e380-453c-b12a-022e5f9c2b05.png)
 
-![image](https://user-images.githubusercontent.com/117635899/213420579-369529a4-e7cf-414d-8473-ea8b5b73c3f7.png)
-Inference by U-net Model Trained on 1. DRIVE, 2. STARE, 3. CHASE Datasets respectively
+
+![image](https://user-images.githubusercontent.com/117635899/213421582-5ba87a54-9e7c-4f30-aa91-a067c6966f9c.png)
+
+
 
 FUTURE WORK
 
