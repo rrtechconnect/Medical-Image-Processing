@@ -44,6 +44,7 @@ Inferences & Evaluation metrics
 Inference by U-net Model Trained on 1. DRIVE, 2. STARE, 3. CHASE Datasets respectively
 
 FUTURE WORK
+
 Effect of Data Augmentation and need for more data 
 
 Automatic Segmentation Vs.  Manual segmentation
