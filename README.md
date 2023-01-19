@@ -29,7 +29,7 @@ Outline of the Course
 
 14. Evaluation Methodologies
 
-15. Challenges in Healthcare AI deployment & Regulatory
+15. Challenges in Healthcare AI deployment & Regulatory (FDA Regulations, SaMD (Softwares as a Medical Device))
 
 16. Unsupervised/Self supervised Learning in Medical Image Analysis
 
