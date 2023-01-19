@@ -45,7 +45,8 @@ Inference by U-net Model Trained on 1. DRIVE, 2. STARE, 3. CHASE Datasets respec
 
 
 ![image](https://user-images.githubusercontent.com/117635899/213421582-5ba87a54-9e7c-4f30-aa91-a067c6966f9c.png)
-
+Left Figures :Inference by U-net Model Trained on 1. DRIVE, 2. STARE, 3. CHASE Datasets respectively (No Domain Shift)
+Right Figures : Inference by U-net Model Trained on DRIVE Reduced Accuracy due to Domain Shift
 
 
 FUTURE WORK
@@ -58,6 +59,18 @@ Feasibility of deployment of trained Model
 
 Converting codes to compile on NVIDIA Jetson Nano
 
+
+REFERENCES
+
+[1]. Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation. In: Navab, N., Hornegger, J., Wells, W., Frangi, A. (eds) Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015. MICCAI 2015. Lecture Notes in Computer Science(), vol 9351. Springer, Cham. https://doi.org/10.1007/978-3-319-24574-4_28
+
+[2].  Fraz et al., "An Ensemble Classification-Based Approach Applied to Retinal Blood Vessel Segmentation", IEEE Transactions on Biomedical Engineering, vol. 59, no. 9, pp. 2538-2548, 2012.
+
+[3]. Olaf Ronneberger, Philipp Fischer, Thomas Brox “U-Net: Convolutional Networks for Biomedical Image Segmentation”. arXiv,2015. Link:https://arxiv.org/abs/1505.04597
+
+[4]. https://github.com/nikhilroxtomar/
+
+[5]. https://github.com/bnsreenu/python_for_microscopists
 
 
 
