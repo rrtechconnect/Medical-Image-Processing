@@ -1,3 +1,5 @@
+[embed] https://github.com/rrtechconnect/Medical-Image-Processing/blob/main/AI_for_Medical_Image_Analysis/Assignment_1/CCE-HW1-AIMIA-Sep29-OCT-1-Latest.pdf [/embed]
+
 Solutions for CCE : AIMIA Homework 1 Solutions, October 1, 2022
 
 Q1. Use the given expert annotations (infection masks) and categorize the CT scans into three categories: Normal, Mild, and Severe. Report the dataset distribution (or count) of above mentioned classes. Also, display a sample for each category's infection mask and infection rate. [Hint : For a given slice, Normal : infection rate is 0, Mild : infection rate is (0%, 40%] and Severe : infection rate is > 40%].
