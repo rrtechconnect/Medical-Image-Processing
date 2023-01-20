@@ -1,6 +1,8 @@
 
 Fast Deblurring Method for Computed Tomography Medical Images Using a Novel Kernels Set
 
+Project summary: Medical images such as computed tomography (CT) are degraded by different types of blur due to the imperfect resolution of the imaging system, data loss at the acquisition time and other technical reasons. The fastest way to deblur an image is by convolving a special kernel to the corrupted image. Laplacian kernels are famous and widely used in this field, but the issue is only few kernels are presented. This project work is trying to simulate the blur problem using various types of blur and attempt to restore the degraded images by using twenty novel kernels. Moreover, these kernels were tested with five types of blur that are: Average, Box, Gaussian, Pillbox and Atmospheric turbulence blur to determine which type of blur is suitable to be employed with kernels the most. The accuracy of the experimental results is measured with five diverse methods along with the success and the failure ratios. Finally, these kernels are applied to naturally degraded images obtained from different CT imaging systems.
+
 1. INTRODUCTION
 
 Medical images such as computed tomography (CT)
