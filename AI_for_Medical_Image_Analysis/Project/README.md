@@ -1,8 +1,5 @@
 
 Title of Project: "Deep Learning based Retinal Vessel Segmentation in colour fundus photography images"
-
-Category of the Project:  Category-3
-
 Aim of the Project:
 The main aim of this project is to develop and implement an automatic retinal vessel segmentation algorithm based on the state-of-the-art deep learning techniques. The retinal vessel segmentation and delineation of morphological attributes of retinal blood vessels  utilized for the diagnosis, screening, treatment, and evaluation of various  cardiovascular and ophthalmologic diseases such as hypertension, diabetic retinopathy etc., Automatic detection and analysis of the vasculature can assist in the implementation of screening programs  for eye related diseases. Further, it will assist to explore the relationship between retinal vessel tortuosity and cardiovascular or neural abnormalities. In addition to this, the retinal vascular tree is found to be unique for each individual and can be used for biometric identification.
 
