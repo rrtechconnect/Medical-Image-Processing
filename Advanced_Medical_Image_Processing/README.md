@@ -99,21 +99,7 @@ Atmospheric Turbulence Blur for all 20 kernels
 
 ![image](https://user-images.githubusercontent.com/117635899/213445812-9d230aea-46e0-4de7-b337-efa4f97e1348.png)
 
-7.THE ACCURACY MEASUREMENTS
-
-![image](https://user-images.githubusercontent.com/117635899/213445884-fd9c00c2-4199-4b0a-b0fb-6ce648afb5cf.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213445917-91a13cbf-b8dd-490e-8d03-54604585f055.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213445971-4155cd45-e87f-4bd6-a0f6-151939f7e707.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213445995-80b79ad8-7092-4537-898f-9e578e85e49c.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213446020-af89bf0a-5863-43a0-aa57-ebb473131ec4.png)
-
-![image](https://user-images.githubusercontent.com/117635899/213446043-34d50575-c8ab-4c77-a1fb-4922d139662b.png)
-
-8.CONLCUSION
+7.CONLCUSION
 
       Table 6 proves that the total success ratio is 51% of kernels to sharpen five types of blur.
 
