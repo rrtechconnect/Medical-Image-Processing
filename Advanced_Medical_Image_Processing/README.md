@@ -37,7 +37,7 @@ Twenty novel kernels.
     
      The restored image (R) can be described as the subsequent:  R = D ⨂ K 
 
-4. PROPOSED KERNEL SETS
+4. IMPLEMENTED KERNEL SETS
 
 ![image](https://user-images.githubusercontent.com/117635899/213444006-019cb0fa-4e89-4966-85cd-312847c3ad45.png)
 
