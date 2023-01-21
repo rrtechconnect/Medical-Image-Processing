@@ -25,19 +25,18 @@ IoU for class3 is: 0.96470076
 
 The Training, validation loss and accuracries have been depicted in Figure1 and Figure2.
 
-![image](https://user-images.githubusercontent.com/117635899/213849365-2a486c47-e4e9-467d-8830-39528b8506d6.png)
+![Training_Validation_Loss2](https://user-images.githubusercontent.com/117635899/213850010-7a5f2204-528d-437c-949f-cb046178a18a.png)
 Figure 1: Training and Validation Loss
 
-![image](https://user-images.githubusercontent.com/117635899/213849373-3fe29ae6-74bc-4aeb-b691-1aa53a8cf8c0.png)
+![Training_Validation_Accuracy2](https://user-images.githubusercontent.com/117635899/213850143-134f9383-1b51-4f2b-96e0-e051ebc630ce.png)
 Figure 2: Training and Validation Accuracy
 
 The sample predictions of the trained U-net model have been given in Figure3 and
 Figure4.
 
-![image](https://user-images.githubusercontent.com/117635899/213849402-541b3848-e668-4e8f-b2af-d73e950206ba.png)
+![testing_prediction_2](https://user-images.githubusercontent.com/117635899/213850569-c2a75a74-9d99-4eba-9757-ec8e39dd2f5b.png)
 Figure 3: Prediction on Test CT slice along with mask
 
-
-![image](https://user-images.githubusercontent.com/117635899/213849420-d8252317-f4d2-4114-888d-f247d40ccaa9.png)
+![testing_prediction_1](https://user-images.githubusercontent.com/117635899/213850663-f48c055a-d5bd-401a-aea0-ed7c985f37e9.png)
 Figure 4: Prediction on Test CT slice along with mask
 
