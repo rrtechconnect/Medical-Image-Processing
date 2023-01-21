@@ -35,8 +35,10 @@ The sample predictions of the trained U-net model have been given in Figure3 and
 Figure4.
 
 ![testing_prediction_2](https://user-images.githubusercontent.com/117635899/213850569-c2a75a74-9d99-4eba-9757-ec8e39dd2f5b.png)
+
 Figure 3: Prediction on Test CT slice along with mask
 
 ![testing_prediction_1](https://user-images.githubusercontent.com/117635899/213850663-f48c055a-d5bd-401a-aea0-ed7c985f37e9.png)
+
 Figure 4: Prediction on Test CT slice along with mask
 
